@@ -1,0 +1,104 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+}
+body
+{
+    background-color: white;
+}
+.box
+{
+    background-color: rgb(255, 253, 251);
+    height: 150px;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 5%;
+    box-shadow: 0 0 10px 0 black;
+}
+h1
+{
+    text-align: center;
+    margin: auto;
+    top: 5%;
+    font-family: poppins, sans-serif;
+    position: relative;
+}
+#input
+{
+    margin: 0 auto;
+    margin-top: 8%;
+    margin-left: 5%;
+    width: 70%;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 0%;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+}
+button
+{
+    margin: 0 auto;
+    position: relative;
+    top: 2.5%;
+    right: -0.5%;
+    background-color: rgb(173, 173, 253);
+    width: 18%;
+    height: 40px;
+    border: 2px sloid black;
+    border-radius: 0%;
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+button:hover
+{
+    cursor: pointer;
+    background-color: rgb(126, 126, 255);
+}
+.box2
+{
+    background-color: rgb(255, 253, 251);
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    box-shadow: 0 0 10px 0 black;
+    top: 35%;
+    left: 20%;
+}
+.btn1
+{
+    background-color: rgb(247, 247, 174);
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+    width: 60px;
+    height: 30px;
+    margin: 0 auto;
+    top: 80%;
+    left: 40%;
+}
+.btn1:hover
+{
+    cursor: pointer;
+    background-color: rgb(190, 190, 112);
+}
+.btn2
+{
+    background-color: rgb(248, 164, 164);
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+    width: 60px;
+    height: 30px;
+    margin: 0 auto;
+    top: 80%;
+    left: 40%;
+}
+.btn2:hover
+{
+    cursor: pointer;
+    background-color: rgb(253, 98, 98);
+}
